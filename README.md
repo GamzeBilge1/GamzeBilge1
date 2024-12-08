@@ -1,7 +1,10 @@
 <h1 align="center">Merhaba 👋, ben Gamze Bilge</h1>
 
-- 🌱 **Backend Development** ve **Veritabanı Yönetimi** alanında uzmanlaşmayı hedefliyorum.
+-  🌱 **Web uygulamaları** için modern **Backend ** teknolojileri ve **Veritabanı Yönetimi** alanlarında uzmanlaşarak kullanıcı odaklı çözümler üretmeyi hedefliyorum.
+
 - 📫 Bana ulaşabilirsiniz: **bilgegamze227@outlook.com**
+- 🌐 LinkedIn Profilim: [Gamze Bilge](https://linkedin.com/in/gamze-bilge1)
+
 <h3 align="left">Diller ve Araçlar:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank"> 
