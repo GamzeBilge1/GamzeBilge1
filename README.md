@@ -1,6 +1,6 @@
 <h1 align="center">Merhaba 👋, ben Gamze Bilge</h1>
 
--  🌱 **Web uygulamaları** için modern **Backend ** teknolojileri ve **Veritabanı Yönetimi** alanlarında uzmanlaşarak kullanıcı odaklı çözümler üretmeyi hedefliyorum.
+-  🌱 **Web uygulamaları** için modern **Backend Development** teknolojileri ve **Veritabanı Yönetimi** alanlarında uzmanlaşarak kullanıcı odaklı çözümler üretmeyi hedefliyorum.
 
 - 📫 Bana ulaşabilirsiniz: **bilgegamze227@outlook.com**
 - 🌐 LinkedIn Profilim: [Gamze Bilge](https://linkedin.com/in/gamze-bilge1)
