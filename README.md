@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, ben Gamze Bilge</h1>
+<h1 align="center">Merhaba 👋, Ben Gamze Bilge</h1>
 
 -  🌱 **Web uygulamaları** için modern **Backend Development** teknolojileri ve **Veritabanı Yönetimi** alanlarında uzmanlaşarak kullanıcı odaklı çözümler üretmeyi hedefliyorum.
 
