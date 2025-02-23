@@ -3,7 +3,7 @@
 -  🌱 **Web uygulamaları** için modern **Backend Development** teknolojileri ve **Veritabanı Yönetimi** alanlarında uzmanlaşarak kullanıcı odaklı çözümler üretmeyi hedefliyorum.
 
 - 📫 Bana ulaşabilirsiniz: **bilgegamze227@outlook.com**
-- 🌐 LinkedIn Profilim: [Gamze Bilge](https://linkedin.com/in/gamze-bilge1)
+
 
 <h3 align="left">Diller ve Araçlar:</h3>
 <p align="left"> 
